@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+PLAN_AND_INTERVIEW_NOTES.md
+venv/

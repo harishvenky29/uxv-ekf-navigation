@@ -1,0 +1,10 @@
+Metric                                   Value
+---------------------------------------  --------
+GNSS-only position RMSE                    2.08 m
+IMU dead-reckoning position RMSE          75.67 m
+EKF position RMSE (whole flight)           2.64 m
+EKF position RMSE (GNSS available)         0.93 m
+EKF max position error in 30 s outage     10.80 m
+EKF heading RMSE                           0.42 deg
+Gyro bias: true 1.146, estimated 1.159 deg/s
+Mean GNSS NIS (expect ~2.0 if consistent)  2.24
